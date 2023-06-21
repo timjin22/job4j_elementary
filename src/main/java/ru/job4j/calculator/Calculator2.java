@@ -9,5 +9,8 @@ public class Calculator2 {
     public  static void main(String[] args) {
         Calculator2.plus(1, 2);
         Calculator2.plus(10, 11);
+        Calculator2.plus(100, 500);
+        Calculator2.plus(4, 2);
+        Calculator2.plus(3, 5);
     }
 }
