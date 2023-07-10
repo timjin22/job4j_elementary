@@ -66,8 +66,6 @@ public class FindLoopTest {
 
     @Test
     public void whenDiapasonHasNot8ThenMinus1() {
-        /* Дописать тест, когда элемент 8 в диапазоне не найден.
-        Можно искать любой другой элемент, корректно отражая этот факт в названии теста. */
         int[] data = new int[] {4, 2, 97, 21, 11, 7, 3, 66, 8};
         int el = 8;
         int start = 4;
